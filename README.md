@@ -48,25 +48,6 @@ Currently, I’m focused on improving my skills in **modern full-stack developme
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Arun07-8&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://nirzak-streak-stats.vercel.app/?user=Arun07-8&theme=dark&hide_border=true)
-
----
-
-# 🧠 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun07-8&theme=dark&hide_border=true&layout=compact)
-
----
-
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Arun07-8&theme=github-dark) 
